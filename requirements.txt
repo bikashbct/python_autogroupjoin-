@@ -1,0 +1,7 @@
+# This is the requirements file for the Python Autojoin project.
+# It lists all the dependencies needed to run the project.
+
+# Telethon is a Telegram client implementation in Python.
+telethon
+
+
